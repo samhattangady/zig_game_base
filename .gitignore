@@ -1,0 +1,16 @@
+*.swp
+*~
+*.*~
+
+*.*~
+*.rdbg
+
+zig-out
+zig-cache
+hotreload_libs
+local
+
+data/savefiles/save_*.json
+data/savefiles/pretty.json
+releases/
+
